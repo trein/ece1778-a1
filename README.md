@@ -1,7 +1,7 @@
-ECE1778-a1
+ECE1778 A1
 ==========
 
-Android app following the requirements of ECE1778 assignment
+Android app following the requirements of ECE1778 assignment 1.
 
 Requirements
 ------------
